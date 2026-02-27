@@ -15,45 +15,44 @@ toc_sticky: true
 
 ## 👨‍🔬 About Me
 
-I am a PhD student at the **College of Land Science and Technology, China Agricultural University (CAU)**, Beijing. Under the supervision of **Professor Yelu Zeng**, my research focuses on the frontiers of **Quantitative Remote Sensing**. 
+I am a PhD student at **China Agricultural University (CAU)**, Beijing. Under the supervision of Prof. Yelu Zeng, my research focuses on the frontiers of **Quantitative Vegetation Remote Sensing**. 
 
-I am passionate about bridge-building between physical radiative transfer mechanisms and satellite observations to better understand terrestrial vegetation dynamics. Currently, I also serve as a professional reviewer for **Remote Sensing of Environment (RSE)**.
+I am passionate about bridge-building between physical radiative transfer mechanisms and satellite observations to better understand terrestrial vegetation dynamics.
 
-## 核心研究方向 | Research Interests
+## Research Interests
 
 My academic work integrates multi-source remote sensing data and physical models:
 * **Solar-Induced Chlorophyll Fluorescence (SIF)**: Exploring SIF mechanisms and its coupling with photosynthesis.
-* **3D Radiative Transfer Modeling**: Extensive experience with **SCOPE** and **LESS** models for canopy simulation.
+* **3D Radiative Transfer Modeling**: Extensive experience with **Canopy-SIP** and **LESS** models for canopy simulation.
 * **Soil-Background Decoupling**: Developing algorithms to minimize soil influence in vegetation parameter retrieval.
 * **Quantitative Analysis**: Proficiency in data processing and algorithm implementation using **MATLAB**.
 
 ## 📢 News
 
-* **[Feb. 2026]** Updated personal academic homepage using Minimal Mistakes.
-* **[Oct. 2025]** Served as a **co-organizer** for the "Remote Sensing Mechanisms" session at the Academic Salon.
+* **[Feb. 2026]** Deployed an updated academic website on GitHub. The site utilizes the Minimal Mistakes framework and was refined with the support of AI tools.
 
 ## 🎓 Education
 
-* **PhD in Land Science and Technology**, China Agricultural University, 2020 – Present.
-* **BS in Geographic Information Science**, Northwest A&F University (Resource and Environment College), 2016 – 2020.
+* **PhD in Land Science and Technology**, China Agricultural University, 2022 – Present.
+* **BS in Geographic Information Science**, Northwest A&F University, 2018 – 2022.
 
 ## 📝 Publications & Patents
 
-To date, I have authored **3 SCI papers** (including 1 as the first author) and applied for **1 National Invention Patent**.
+To date, I have authored **4 SCI papers** (including 1 as the first author) and applied for **1 National Invention Patent**.
 
 > For a complete list of my research output, please visit the [Publications](/publications/) page.
 
 ### Selected Works
-1. **He, Y.**, et al. (In progress/Published). *Research on SIF and Vegetation Parameters*.
-2. **National Invention Patent**: *Method for Quantitative Remote Sensing Retrieval*.
+
+1. **He, Yachang**, Yelu Zeng, Dalei Hao, Nikolay V. Shabanov, Jianxi Huang, Gaofei Yin, Khelvi Biriukova et al. "Combining geometric-optical and spectral invariants theories for modeling canopy fluorescence anisotropy." Remote Sensing of Environment 323 (2025): 114716. https://doi.org/10.1016/j.rse.2025.114716
 
 ## 🛠 Skills
 
-* **Models**: SCOPE, LESS, PROSAIL.
-* **Programming**: MATLAB (Expert), LaTeX for academic figure production.
+* **Models**: SCOPE, LESS, PROSAIL, Canopy-SIP.
+* **Programming**: MATLAB (Expert), LaTeX, Python.
 * **Languages**: Chinese (Native), English (Academic).
 
 ---
 **Contact:**
-📧 [yachanghe@cau.edu.cn](mailto:yachanghe@cau.edu.cn) 
-📍 Room XXX, Land Science Building, CAU, Beijing.
+📧 [clsthyc@cau.edu.cn](mailto:yachanghe@cau.edu.cn) 
+📍 Room 355, Land Science Building, CAU, Beijing.
