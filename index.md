@@ -5,7 +5,7 @@ title: "Welcome to Heyachang's Homepage"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-bg.jpg # 你可以随后在 assets/images 放入一张遥感影像图
+  overlay_image: /assets/images/header-bg.jpg
 excerpt: "PhD Student at China Agricultural University | Quantitative Remote Sensing | SIF & 3D Modeling"
 toc: true
 toc_label: "Contents"
